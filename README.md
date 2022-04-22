@@ -1,5 +1,5 @@
 # keylogger
-This keylogger use `pynput` to read keystrokes and write to `key.txt` file.
+This keylogger use `pynput` to read keystrokes and write to `key.txt` file, then send to FTP server 
 ## Requirements
 `pynput`  
 No need to download by `pip`
